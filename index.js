@@ -28,15 +28,16 @@ module.exports = {
             4,
         ],
         'linebreak-style': [
-            'error',
+            'warn',
             'unix',
         ],
+        'no-multi-spaces': 'warn',
         quotes: [
-            'error',
+            'warn',
             'single',
         ],
         semi: [
-            'error',
+            'warn',
             'always',
         ],
         'react/prop-types': 'off',
