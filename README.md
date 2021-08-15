@@ -14,3 +14,9 @@ Run `npm i -D @hideo54/esling-config` and extends your .eslintrc.json etc. like:
     "extends": "@hideo54
 }
 ```
+
+## How to publish (note for hideo54)
+
+1. `npm version v2.5.252`
+1. `git push --tags`
+1. Then the GitHub Actions workflow runs and publishes the package instead of you
