@@ -23,23 +23,17 @@ module.exports = {
         '@typescript-eslint',
     ],
     rules: {
-        indent: [
-            'warn',
-            4,
-        ],
-        'linebreak-style': [
-            'warn',
-            'unix',
-        ],
+        'array-bracket-spacing': ['warn', 'never'],
+        'comma-spacing': ['warn', {
+            before: false,
+            after: true,
+        }],
+        indent: [ 'warn', 4 ],
+        'linebreak-style': [ 'warn', 'unix' ],
         'no-multi-spaces': 'warn',
-        quotes: [
-            'warn',
-            'single',
-        ],
-        semi: [
-            'warn',
-            'always',
-        ],
+        'object-curly-spacing': [ 'warn', 'always' ],
+        quotes: [ 'warn', 'single' ],
+        semi: [ 'warn', 'always' ],
         'react/prop-types': 'off',
         'react/react-in-jsx-scope': 'off',
         '@typescript-eslint/ban-ts-comment': 'warn',
