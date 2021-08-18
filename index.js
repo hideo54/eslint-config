@@ -32,6 +32,7 @@ module.exports = {
         'linebreak-style': ['warn', 'unix'],
         'no-multi-spaces': 'warn',
         'object-curly-spacing': ['warn', 'always'],
+        'prefer-arrow-callback': 'warn',
         quotes: ['warn', 'single'],
         semi: ['warn', 'always'],
         'react/prop-types': 'off',
