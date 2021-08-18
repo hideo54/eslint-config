@@ -11,7 +11,7 @@ Run `npm i -D @hideo54/esling-config` and extends your .eslintrc.json etc. like:
 
 ```
 {
-    "extends": "@hideo54
+    "extends": "@hideo54"
 }
 ```
 
