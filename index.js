@@ -28,6 +28,7 @@ module.exports = {
             before: false,
             after: true,
         }],
+        'comma-dangle': ['warn', 'always-multiline'],
         indent: ['warn', 4],
         'linebreak-style': ['warn', 'unix'],
         'no-multi-spaces': 'warn',
