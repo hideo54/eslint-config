@@ -41,7 +41,7 @@ module.exports = {
         '@typescript-eslint/ban-ts-comment': 'warn',
         '@typescript-eslint/explicit-module-boundary-types': 'off',
         '@typescript-eslint/no-empty-function': 'off',
-        'next/no-img-element': 'off',
+        '@next/next/no-img-element': 'off',
     },
     settings: {
         react: {
