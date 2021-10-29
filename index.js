@@ -42,6 +42,7 @@ module.exports = {
         'prefer-arrow-callback': 'warn',
         quotes: ['warn', 'single'],
         semi: ['warn', 'always'],
+        'quote-props': ['warn', 'as-needed'],
         'react/prop-types': 'off',
         'react/react-in-jsx-scope': 'off',
         '@typescript-eslint/ban-ts-comment': 'warn',
