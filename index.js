@@ -48,6 +48,7 @@ module.exports = {
         '@typescript-eslint/explicit-module-boundary-types': 'off',
         '@typescript-eslint/no-empty-function': 'off',
         '@next/next/no-img-element': 'off',
+        '@next/next/no-html-link-for-pages': 'off',
     },
     settings: {
         react: {
