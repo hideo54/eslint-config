@@ -42,6 +42,7 @@ module.exports = {
         'prefer-arrow-callback': 'warn',
         quotes: ['warn', 'single'],
         semi: ['warn', 'always'],
+        'space-infix-ops': 'warn',
         'quote-props': ['warn', 'as-needed'],
         'react/prop-types': 'off',
         'react/react-in-jsx-scope': 'off',
