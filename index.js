@@ -35,6 +35,7 @@ module.exports = {
             exports: 'always-multiline',
             functions: 'never',
         }],
+        'consistent-type-imports': 'warn',
         indent: ['warn', 4],
         'linebreak-style': ['warn', 'unix'],
         'no-multi-spaces': 'warn',
