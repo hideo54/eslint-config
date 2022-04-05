@@ -1,4 +1,4 @@
-# @hideo54/esling-config
+# @hideo54/eslint-config
 
 [![npm version](https://badge.fury.io/js/%40hideo54%2Feslint-config.svg)](https://badge.fury.io/js/%40hideo54%2Feslint-config)
 [![Release npm package](https://github.com/hideo54/eslint-config/actions/workflows/release.yml/badge.svg)](https://github.com/hideo54/eslint-config/actions/workflows/release.yml)
@@ -7,7 +7,7 @@
 
 ## How to use
 
-Run `npm i -D @hideo54/esling-config` and extends your .eslintrc.json etc. like:
+Run `npm i -D @hideo54/eslint-config` and extends your .eslintrc.json etc. like:
 
 ```
 {
