@@ -47,7 +47,6 @@ module.exports = {
         semi: ['warn', 'always'],
         'space-infix-ops': 'warn',
         '@typescript-eslint/ban-ts-comment': 'warn',
-        '@typescript-eslint/consistent-type-imports': 'warn',
         '@typescript-eslint/explicit-module-boundary-types': 'off',
         '@typescript-eslint/no-empty-function': 'off',
         '@next/next/no-img-element': 'off',
