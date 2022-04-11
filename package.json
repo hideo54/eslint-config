@@ -1,7 +1,7 @@
 {
   "name": "@hideo54/eslint-config",
   "description": "@hideo54/eslint-config",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "main": "index.js",
   "scripts": {
     "lint": "eslint index.js --max-warnings 0",
