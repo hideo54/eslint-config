@@ -35,6 +35,7 @@ module.exports = {
             functions: 'never',
         }],
         indent: ['warn', 4],
+        'jsx-quotes': ['warn', 'prefer-single'],
         'linebreak-style': ['warn', 'unix'],
         'no-multi-spaces': 'warn',
         'object-curly-spacing': ['warn', 'always'],
