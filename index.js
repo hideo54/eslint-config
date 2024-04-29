@@ -4,7 +4,6 @@ module.exports = {
         es2021: true,
     },
     extends: [
-        'next',
         'eslint:recommended',
         'plugin:react/recommended',
         'plugin:@typescript-eslint/recommended',
@@ -49,8 +48,6 @@ module.exports = {
         '@typescript-eslint/ban-ts-comment': 'warn',
         '@typescript-eslint/explicit-module-boundary-types': 'off',
         '@typescript-eslint/no-empty-function': 'off',
-        '@next/next/no-img-element': 'off',
-        '@next/next/no-html-link-for-pages': 'off',
     },
     settings: {
         react: {
