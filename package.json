@@ -1,7 +1,7 @@
 {
   "name": "@hideo54/eslint-config",
   "description": "@hideo54/eslint-config",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "main": "index.js",
   "type": "module",
   "scripts": {
